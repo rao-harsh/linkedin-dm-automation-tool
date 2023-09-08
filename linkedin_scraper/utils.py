@@ -244,5 +244,5 @@ def safe_extract(element, xpath):
 
 
 if __name__ == "__main__":
-    connect_and_send_message("hannahjenkins512@gmail.com",
-                             "hrao0905@HR", "./lu.xlsx")
+    # connect_and_send_message() to run standalone file
+    pass
