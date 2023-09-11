@@ -7,3 +7,6 @@
 /tmp.py
 /utils.py
 /venv
+/reports
+/logs
+/__pycache__

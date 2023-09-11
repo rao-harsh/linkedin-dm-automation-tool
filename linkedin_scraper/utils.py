@@ -119,10 +119,13 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
         for detail in details:
             delay = delay if auto_delay is False else random.randint(1, 30)
             try:
-                driver.find_element(By.TAG_NAME, 'body').send_keys(
-                    Keys.CONTROL + 't')
-                driver.get(detail["link"])
-                # driver.get("https://www.linkedin.com/in/martasmiech/")
+                # driver.get(detail["link"])
+                driver.get(
+                    "https://www.linkedin.com/in/madhav-panchal-59b66b229/")
+                name = safe_extract(
+                    driver, '//h1[@class="text-heading-xlarge inline t-24 v-align-middle break-words"]').text
+                print(name)
+                detail["message"] = detail["message"].replace("{name}", name)
                 time.sleep(delay)
                 delay = set_delay(delay, auto_delay)
                 not_found = safe_extract(
