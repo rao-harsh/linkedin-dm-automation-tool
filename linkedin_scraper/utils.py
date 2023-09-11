@@ -119,9 +119,9 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
         for detail in details:
             delay = delay if auto_delay is False else random.randint(1, 30)
             try:
-                # driver.get(detail["link"])
-                driver.get(
-                    "https://www.linkedin.com/in/madhav-panchal-59b66b229/")
+                driver.get(detail["link"])
+                # driver.get(
+                #     "https://www.linkedin.com/in/madhav-panchal-59b66b229/")
                 name = safe_extract(
                     driver, '//h1[@class="text-heading-xlarge inline t-24 v-align-middle break-words"]').text
                 print(name)
