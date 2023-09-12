@@ -87,7 +87,7 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
     success_urls = []
     success_messages = []
     options = Options()
-    options.add_argument("--headless=new")
+    # options.add_argument("--headless=new")
     unsuccess_urls = []
     error_messages = []
     try:
@@ -119,9 +119,9 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
         for detail in details:
             delay = delay if auto_delay is False else random.randint(1, 30)
             try:
-                driver.get(detail["link"])
-                # driver.get(
-                #     "https://www.linkedin.com/in/madhav-panchal-59b66b229/")
+                # driver.get(detail["link"])
+                driver.get(
+                    "https://www.linkedin.com/in/parth-savaj-239833269/")
                 name = safe_extract(
                     driver, '//h1[@class="text-heading-xlarge inline t-24 v-align-middle break-words"]').text
                 print(name)
@@ -163,7 +163,7 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
                 if textbox is None:
                     raise NoSuchElementException(
                         msg="textbox not found there's some changes in LinkedIn UI")
-
+                print(detail["message"])
                 textbox.send_keys(detail["message"])
                 sendbutton = safe_extract(
                     driver, "//button[@aria-label='Send now']")
@@ -222,10 +222,11 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
 
         now = datetime.datetime.now()
         formatted_date = now.strftime("%Y-%m-%d %H:%M:%S,%f")
-        success_excel_file_path = f"./reports/successful/success-{formatted_date}.xlsx".replace(
-            ":", "_").replace(",", "_")
-        error_excel_file_path = f"./reports/unsuccessful/unsuccess-{formatted_date}.xlsx".replace(
-            ":", "_").replace(",", "_")
+        translation_table = str.maketrans({":": "_", ",": "_"})
+        success_excel_file_path = f"./reports/successful/success-{formatted_date}.xlsx".translate(
+            translation_table)
+        error_excel_file_path = f"./reports/unsuccessful/unsuccess-{formatted_date}.xlsx".translate(
+            translation_table)
 
         success_df.to_excel(success_excel_file_path, index=False)
         error_df.to_excel(error_excel_file_path, index=False)
