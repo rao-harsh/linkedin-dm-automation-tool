@@ -8,6 +8,7 @@ import time
 import logging
 import datetime
 import random
+import os
 
 
 linkedin_url = 'https://www.linkedin.com/login'
@@ -57,6 +58,14 @@ def find_connect_button(driver, delay):
         return connect
 
     return None
+
+
+if not os.path.exists("./logs"):
+    os.mkdir("./logs")
+
+if not os.path.exists("./reports"):
+    os.makedirs("./reports/successful")
+    os.makedirs("./reports/unsuccessful")
 
 
 # Configure logging for successful connections
