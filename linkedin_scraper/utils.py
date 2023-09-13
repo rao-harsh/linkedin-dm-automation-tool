@@ -60,12 +60,16 @@ def find_connect_button(driver, delay):
     return None
 
 
-if not os.path.exists("./logs"):
-    os.mkdir("./logs")
+try:
+    # Attempt to create the "logs" directory
+    if not os.path.exists("./logs"):
+        os.mkdir("./logs")
 
-if not os.path.exists("./reports"):
-    os.makedirs("./reports/successful")
-    os.makedirs("./reports/unsuccessful")
+    if not os.path.exists("./reports"):
+        os.makedirs("./reports/successful")
+        os.makedirs("./reports/unsuccessful")
+except OSError as e:
+    print(f"Error creating directory : {e}")
 
 
 # Configure logging for successful connections
