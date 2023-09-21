@@ -1,7 +1,4 @@
 let container = document.getElementById("container");
-console.log("Hello")
-
-window.onload = console.log("Hellllo")
 
 toggle = () => {
   container.classList.toggle("sign-in");
@@ -35,16 +32,13 @@ timeInput.addEventListener("input", function (event) {
 
 
 const radios = document.querySelectorAll("input[name=run_type]")
-console.log(radios)
 
 for (const radio of radios){
   radio.addEventListener("change",function(event){
     if(this.value=="auto" && this.checked){
-      console.log("hidden")
       timeInput.style.display = "none"
     }
     if(this.value == "seq" && this.checked){
-      console.log("shown")
       timeInput.style.display = "block"
     }
   })
@@ -53,6 +47,5 @@ for (const radio of radios){
 
 document.querySelector("#download_all").addEventListener("click", function () {
   const downloadLinks = document.querySelectorAll(".downloadButton");
-  console.log(downloadLinks);
   downloadLinks.forEach(link => link.click());
 });

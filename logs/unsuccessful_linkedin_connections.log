@@ -1,0 +1,340 @@
+2023-09-15 12:37:46,665 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:47,045 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:47,476 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:48,232 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:48,914 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:49,713 - ERROR - Profile: http://www.linkedin.com/in/barbara-browne-85a217a - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:50,490 - ERROR - Profile: http://www.linkedin.com/in/barb-snell-603521b - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:51,242 - ERROR - Profile: http://www.linkedin.com/in/barb-crawford-2038228 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:52,002 - ERROR - Profile: http://www.linkedin.com/in/beth-andersen-70780a1 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:52,777 - ERROR - Profile: http://www.linkedin.com/in/rtallen - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:53,740 - ERROR - Profile: http://www.linkedin.com/in/bailie-capen-96a908137 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:54,514 - ERROR - Profile: http://www.linkedin.com/in/michelle-bailey-687b266 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:55,452 - ERROR - Profile: http://www.linkedin.com/in/bobbi-lynn-marshall-48963446 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:56,240 - ERROR - Profile: http://www.linkedin.com/in/anna-zappia-1a645411 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:57,156 - ERROR - Profile: http://www.linkedin.com/in/ann-york-3947b421 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:58,000 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:58,687 - ERROR - Profile: http://www.linkedin.com/in/amanda-worrell-phr-36507048 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:37:59,509 - ERROR - Profile: http://www.linkedin.com/in/alex-wopat-1a43b238 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:38:00,278 - ERROR - Profile: http://www.linkedin.com/in/adam-wiszowaty-0079b013 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:38:01,222 - ERROR - Profile: http://www.linkedin.com/in/alice-winkler-7357b3131 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:38:01,901 - ERROR - Profile: http://www.linkedin.com/in/anna-weldon-330502b9 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:38:02,710 - ERROR - Profile: http://www.linkedin.com/in/julierosenhr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:38:03,459 - ERROR - Profile: http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:39:48,906 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:39:50,509 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:39:52,088 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:39:53,640 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:39:55,182 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:55:25,150 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 12:57:02,921 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-15 13:06:13,844 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:17:34,918 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:22:55,335 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:01,170 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:07,233 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:13,150 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:19,021 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:24,924 - ERROR - Profile: http://www.linkedin.com/in/barbara-browne-85a217a - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:30,432 - ERROR - Profile: http://www.linkedin.com/in/barb-snell-603521b - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:35,967 - ERROR - Profile: http://www.linkedin.com/in/barb-crawford-2038228 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:42,080 - ERROR - Profile: http://www.linkedin.com/in/beth-andersen-70780a1 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:47,917 - ERROR - Profile: http://www.linkedin.com/in/rtallen - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:53,826 - ERROR - Profile: http://www.linkedin.com/in/bailie-capen-96a908137 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:23:59,578 - ERROR - Profile: http://www.linkedin.com/in/michelle-bailey-687b266 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:05,581 - ERROR - Profile: http://www.linkedin.com/in/bobbi-lynn-marshall-48963446 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:11,399 - ERROR - Profile: http://www.linkedin.com/in/anna-zappia-1a645411 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:17,381 - ERROR - Profile: http://www.linkedin.com/in/ann-york-3947b421 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:23,353 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:29,310 - ERROR - Profile: http://www.linkedin.com/in/amanda-worrell-phr-36507048 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:35,094 - ERROR - Profile: http://www.linkedin.com/in/alex-wopat-1a43b238 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:41,262 - ERROR - Profile: http://www.linkedin.com/in/adam-wiszowaty-0079b013 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:46,904 - ERROR - Profile: http://www.linkedin.com/in/alice-winkler-7357b3131 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:52,976 - ERROR - Profile: http://www.linkedin.com/in/anna-weldon-330502b9 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:24:58,883 - ERROR - Profile: http://www.linkedin.com/in/julierosenhr - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:25:04,854 - ERROR - Profile: http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:25:10,836 - ERROR - Profile: http://www.linkedin.com/in/jaime-rodriguez-8bb75a35 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:25:16,749 - ERROR - Profile: http://www.linkedin.com/in/jennifer-richert-b968527 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 13:25:22,516 - ERROR - Profile: http://www.linkedin.com/in/jackierichardson - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 17:43:03,114 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('replace() argument 2 must be str, not None',)
+2023-09-15 17:46:18,405 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('list index out of range',)
+2023-09-15 17:58:26,971 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('list index out of range',)
+2023-09-15 17:59:13,723 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-15 17:59:14,738 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('list index out of range',)
+2023-09-15 17:59:38,621 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-15 17:59:38,623 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-15 17:59:54,400 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-15 17:59:54,404 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-18 05:15:35,355 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 05:18:51,854 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 05:21:44,369 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 05:26:00,124 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ()
+2023-09-18 05:54:08,769 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 05:54:18,267 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:02:25,041 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 06:02:30,616 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 06:02:36,266 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 06:02:41,772 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 06:36:30,088 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:36:39,956 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:38:07,766 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:38:17,324 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:40:26,813 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:40:27,585 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:41:31,907 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:41:41,553 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:43:02,564 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:43:12,227 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:43:29,926 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:43:39,701 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:47:49,535 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:47:59,213 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 06:54:38,082 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 06:54:48,925 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 07:01:06,473 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-18 07:01:06,476 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:01:06,479 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:01:06,482 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:01:06,485 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:01:06,488 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:12:57,191 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 07:15:40,902 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-18 07:15:40,906 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:15:40,909 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:15:40,912 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:15:40,920 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:15:40,926 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:17:20,549 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 07:17:30,701 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 07:21:13,679 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-18 07:21:13,684 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:21:13,688 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:21:13,692 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:21:13,696 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:21:13,701 - ERROR - Profile: nan - Error: ()
+2023-09-18 07:27:11,059 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 07:27:21,022 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-18 08:35:12,281 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:35:17,933 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:35:23,446 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:37:01,242 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 08:37:11,054 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-18 08:38:52,071 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:38:57,923 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:39:03,880 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:39:09,763 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:41:01,353 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:41:06,955 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:41:12,668 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:41:18,628 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:43:20,968 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:43:27,165 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:43:33,012 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:43:39,240 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-18 08:52:00,262 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-18 08:52:10,242 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-19 10:41:44,534 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-19 10:41:50,047 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-19 10:41:55,597 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-19 10:42:01,099 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ("'NoneType' object has no attribute 'text'",)
+2023-09-19 11:49:34,522 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-19 11:49:40,719 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-19 12:17:54,948 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ()
+2023-09-19 12:18:00,573 - ERROR - Profile: http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938 - Error: ('list index out of range',)
+2023-09-19 12:18:08,499 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-19 12:21:40,846 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-19 12:21:41,674 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('replace() argument 2 must be str, not None',)
+2023-09-19 12:21:43,144 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('replace() argument 2 must be str, not None',)
+2023-09-19 12:21:44,359 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('replace() argument 2 must be str, not None',)
+2023-09-19 12:25:10,111 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-19 12:25:13,837 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-19 12:25:17,685 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('list index out of range',)
+2023-09-19 12:25:21,328 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('list index out of range',)
+2023-09-19 12:30:46,498 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-19 12:30:50,075 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-19 12:30:55,160 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('list index out of range',)
+2023-09-19 12:30:58,858 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('list index out of range',)
+2023-09-19 12:31:02,604 - ERROR - Profile: https://www.linkedin.com/in/madhav-panchal-59b66b229/ - Error: ('list index out of range',)
+2023-09-19 12:32:02,267 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-19 12:32:08,942 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-19 12:32:15,521 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('list index out of range',)
+2023-09-19 12:33:18,117 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('list index out of range',)
+2023-09-19 12:35:05,647 - ERROR - Profile: http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232 - Error: ('list index out of range',)
+2023-09-19 12:35:09,204 - ERROR - Profile: http://www.linkedin.com/in/jon-strathman-phr - Error: ('list index out of range',)
+2023-09-19 12:35:12,960 - ERROR - Profile: http://www.linkedin.com/in/barb-doctor-b7399413 - Error: ('list index out of range',)
+2023-09-19 12:35:16,725 - ERROR - Profile: http://www.linkedin.com/in/amityyates - Error: ('list index out of range',)
+2023-09-19 12:42:09,211 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 12:42:16,659 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 12:43:43,697 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-19 12:43:47,274 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-19 12:43:51,010 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-19 12:43:54,811 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:13:25,366 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:13:32,279 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:15:28,512 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:15:34,602 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:15:40,237 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:16:31,584 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:16:38,875 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:17:36,118 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:17:41,935 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:19:09,128 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:19:16,632 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:21:00,778 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:21:07,745 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:22:34,919 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:22:40,613 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:22:46,993 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:23:55,426 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:24:03,488 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:24:07,575 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:24:13,768 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:43:38,491 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:43:47,155 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:46:17,948 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:46:24,716 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:46:34,523 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:46:40,186 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:50:38,340 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:50:44,598 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:50:51,064 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-19 19:50:57,672 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-19 19:51:02,804 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-19 19:51:09,712 - ERROR - Profile is already connected http://www.linkedin.com/in/barbara-browne-85a217a
+2023-09-19 19:51:17,483 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-snell-603521b
+2023-09-19 19:51:22,673 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-crawford-2038228
+2023-09-19 19:51:56,117 - ERROR - Profile Not found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 19:51:56,118 - ERROR - Profile not Found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 19:52:09,350 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 19:52:11,361 - ERROR - Profile Not found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 19:52:11,361 - ERROR - Profile not Found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 19:52:32,293 - ERROR - Profile Not found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 19:52:32,293 - ERROR - Profile not Found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 19:52:37,727 - ERROR - Profile is already connected http://www.linkedin.com/in/julierosenhr
+2023-09-19 19:53:01,847 - ERROR - Profile is already connected http://www.linkedin.com/in/jackierichardson
+2023-09-19 19:57:53,962 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 19:57:59,568 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 19:58:05,336 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-19 20:07:08,609 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 20:07:16,378 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 20:07:26,404 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-19 20:07:32,274 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-19 20:07:34,427 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-19 20:07:39,868 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-19 20:07:41,232 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-19 20:07:48,769 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-19 20:07:50,000 - ERROR - Profile is already connected http://www.linkedin.com/in/barbara-browne-85a217a
+2023-09-19 20:07:57,030 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-19 20:07:57,879 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-snell-603521b
+2023-09-19 20:08:03,752 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-crawford-2038228
+2023-09-19 20:08:07,606 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-19 20:08:10,655 - ERROR - Profile is already connected http://www.linkedin.com/in/beth-andersen-70780a1
+2023-09-19 20:08:17,060 - ERROR - Profile is already connected http://www.linkedin.com/in/barbara-browne-85a217a
+2023-09-19 20:08:19,900 - ERROR - Profile is already connected http://www.linkedin.com/in/rtallen
+2023-09-19 20:08:23,690 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-snell-603521b
+2023-09-19 20:08:27,376 - ERROR - Profile is already connected http://www.linkedin.com/in/bailie-capen-96a908137
+2023-09-19 20:08:29,254 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-crawford-2038228
+2023-09-19 20:08:34,986 - ERROR - Profile is already connected http://www.linkedin.com/in/michelle-bailey-687b266
+2023-09-19 20:08:35,986 - ERROR - Profile is already connected http://www.linkedin.com/in/beth-andersen-70780a1
+2023-09-19 20:08:42,929 - ERROR - Profile is already connected http://www.linkedin.com/in/bobbi-lynn-marshall-48963446
+2023-09-19 20:08:45,031 - ERROR - Profile is already connected http://www.linkedin.com/in/rtallen
+2023-09-19 20:08:45,100 - ERROR - Profile Not found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 20:08:45,101 - ERROR - Profile not Found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 20:08:51,359 - ERROR - Profile is already connected http://www.linkedin.com/in/ann-york-3947b421
+2023-09-19 20:08:52,007 - ERROR - Profile is already connected http://www.linkedin.com/in/bailie-capen-96a908137
+2023-09-19 20:09:00,018 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 20:09:00,778 - ERROR - Profile is already connected http://www.linkedin.com/in/michelle-bailey-687b266
+2023-09-19 20:09:02,357 - ERROR - Profile Not found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 20:09:02,358 - ERROR - Profile not Found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 20:09:09,196 - ERROR - Profile is already connected http://www.linkedin.com/in/bobbi-lynn-marshall-48963446
+2023-09-19 20:09:09,499 - ERROR - Profile is already connected http://www.linkedin.com/in/alex-wopat-1a43b238
+2023-09-19 20:09:12,285 - ERROR - Profile Not found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 20:09:12,288 - ERROR - Profile not Found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-19 20:09:18,186 - ERROR - Profile is already connected http://www.linkedin.com/in/adam-wiszowaty-0079b013
+2023-09-19 20:09:18,870 - ERROR - Profile is already connected http://www.linkedin.com/in/ann-york-3947b421
+2023-09-19 20:09:24,093 - ERROR - Profile is already connected http://www.linkedin.com/in/alice-winkler-7357b3131
+2023-09-19 20:09:26,583 - ERROR - Profile Not found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 20:09:26,584 - ERROR - Profile not Found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 20:09:27,133 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-19 20:09:29,416 - ERROR - Profile Not found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 20:09:29,418 - ERROR - Profile not Found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-19 20:09:32,458 - ERROR - Profile is already connected http://www.linkedin.com/in/julierosenhr
+2023-09-19 20:09:35,798 - ERROR - Profile is already connected http://www.linkedin.com/in/alex-wopat-1a43b238
+2023-09-19 20:09:41,461 - ERROR - Profile is already connected http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170
+2023-09-19 20:09:45,970 - ERROR - Profile is already connected http://www.linkedin.com/in/adam-wiszowaty-0079b013
+2023-09-19 20:09:51,764 - ERROR - Profile is already connected http://www.linkedin.com/in/jaime-rodriguez-8bb75a35
+2023-09-19 20:09:52,690 - ERROR - Profile is already connected http://www.linkedin.com/in/alice-winkler-7357b3131
+2023-09-19 20:09:55,284 - ERROR - Profile Not found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 20:09:55,286 - ERROR - Profile not Found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-19 20:10:00,771 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-richert-b968527
+2023-09-19 20:10:02,770 - ERROR - Profile is already connected http://www.linkedin.com/in/julierosenhr
+2023-09-19 20:10:08,983 - ERROR - Profile is already connected http://www.linkedin.com/in/jackierichardson
+2023-09-19 20:10:11,133 - ERROR - Profile is already connected http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170
+2023-09-19 20:10:18,843 - ERROR - Profile is already connected http://www.linkedin.com/in/jaime-rodriguez-8bb75a35
+2023-09-19 20:10:25,756 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-richert-b968527
+2023-09-19 20:10:31,730 - ERROR - Profile is already connected http://www.linkedin.com/in/jackierichardson
+2023-09-20 04:45:22,650 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-20 04:45:28,533 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-20 04:45:34,671 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-20 04:45:41,308 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-20 04:45:46,703 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-20 04:45:52,283 - ERROR - Profile is already connected http://www.linkedin.com/in/barbara-browne-85a217a
+2023-09-20 04:45:58,542 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-snell-603521b
+2023-09-20 04:46:03,490 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-crawford-2038228
+2023-09-20 04:46:09,322 - ERROR - Profile is already connected http://www.linkedin.com/in/beth-andersen-70780a1
+2023-09-20 04:46:16,471 - ERROR - Profile is already connected http://www.linkedin.com/in/rtallen
+2023-09-20 04:46:21,513 - ERROR - Profile is already connected http://www.linkedin.com/in/bailie-capen-96a908137
+2023-09-20 04:46:27,309 - ERROR - Profile is already connected http://www.linkedin.com/in/michelle-bailey-687b266
+2023-09-20 04:46:32,612 - ERROR - Profile is already connected http://www.linkedin.com/in/bobbi-lynn-marshall-48963446
+2023-09-20 04:46:35,400 - ERROR - Profile Not found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-20 04:46:35,400 - ERROR - Profile not Found http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-20 04:46:40,714 - ERROR - Profile is already connected http://www.linkedin.com/in/ann-york-3947b421
+2023-09-20 04:46:46,646 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-20 04:46:49,274 - ERROR - Profile Not found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-20 04:46:49,274 - ERROR - Profile not Found http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-20 04:46:54,591 - ERROR - Profile is already connected http://www.linkedin.com/in/alex-wopat-1a43b238
+2023-09-20 04:47:00,231 - ERROR - Profile is already connected http://www.linkedin.com/in/adam-wiszowaty-0079b013
+2023-09-20 04:47:05,541 - ERROR - Profile is already connected http://www.linkedin.com/in/alice-winkler-7357b3131
+2023-09-20 04:47:08,539 - ERROR - Profile Not found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-20 04:47:08,539 - ERROR - Profile not Found http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-20 04:47:14,548 - ERROR - Profile is already connected http://www.linkedin.com/in/julierosenhr
+2023-09-20 04:47:20,056 - ERROR - Profile is already connected http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170
+2023-09-20 04:47:25,813 - ERROR - Profile is already connected http://www.linkedin.com/in/jaime-rodriguez-8bb75a35
+2023-09-20 04:47:32,121 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-richert-b968527
+2023-09-20 04:47:37,999 - ERROR - Profile is already connected http://www.linkedin.com/in/jackierichardson
+2023-09-20 06:41:16,952 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-20 06:41:21,127 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-teller-shrm-cp-a0970938
+2023-09-20 06:41:24,968 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-20 06:41:28,719 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-20 06:41:32,454 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-20 06:41:36,283 - ERROR - Profile is already connected http://www.linkedin.com/in/barbara-browne-85a217a
+2023-09-20 06:41:41,172 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-snell-603521b
+2023-09-20 06:41:44,999 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-crawford-2038228
+2023-09-20 06:41:48,707 - ERROR - Profile is already connected http://www.linkedin.com/in/beth-andersen-70780a1
+2023-09-20 06:41:53,129 - ERROR - Profile is already connected http://www.linkedin.com/in/rtallen
+2023-09-20 06:41:56,898 - ERROR - Profile is already connected http://www.linkedin.com/in/bailie-capen-96a908137
+2023-09-20 06:42:00,624 - ERROR - Profile is already connected http://www.linkedin.com/in/michelle-bailey-687b266
+2023-09-20 06:42:04,444 - ERROR - Profile is already connected http://www.linkedin.com/in/bobbi-lynn-marshall-48963446
+2023-09-20 06:42:08,157 - ERROR - Profile is already connected http://www.linkedin.com/in/anna-zappia-1a645411
+2023-09-20 06:42:11,885 - ERROR - Profile is already connected http://www.linkedin.com/in/ann-york-3947b421
+2023-09-20 06:42:15,758 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-20 06:42:19,522 - ERROR - Profile is already connected http://www.linkedin.com/in/amanda-worrell-phr-36507048
+2023-09-20 06:42:23,207 - ERROR - Profile is already connected http://www.linkedin.com/in/alex-wopat-1a43b238
+2023-09-20 06:42:26,944 - ERROR - Profile is already connected http://www.linkedin.com/in/adam-wiszowaty-0079b013
+2023-09-20 06:42:30,697 - ERROR - Profile is already connected http://www.linkedin.com/in/alice-winkler-7357b3131
+2023-09-20 06:42:34,513 - ERROR - Profile is already connected http://www.linkedin.com/in/anna-weldon-330502b9
+2023-09-20 06:42:37,969 - ERROR - Profile is already connected http://www.linkedin.com/in/julierosenhr
+2023-09-20 06:42:41,721 - ERROR - Profile is already connected http://www.linkedin.com/in/jairo-rondon-shrm-cp-61724b170
+2023-09-20 06:42:45,567 - ERROR - Profile is already connected http://www.linkedin.com/in/jaime-rodriguez-8bb75a35
+2023-09-20 06:42:49,292 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-richert-b968527
+2023-09-20 06:42:53,752 - ERROR - Profile is already connected http://www.linkedin.com/in/jackierichardson
+2023-09-20 07:02:30,239 - ERROR - Profile is already connected http://www.linkedin.com/in/jennifer-susor-phr-shrm-cp-mba-b3828232
+2023-09-20 07:02:34,250 - ERROR - Profile is already connected http://www.linkedin.com/in/jon-strathman-phr
+2023-09-20 07:02:38,526 - ERROR - Profile is already connected http://www.linkedin.com/in/barb-doctor-b7399413
+2023-09-20 07:02:42,620 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-20 13:43:34,788 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-20 13:43:41,426 - ERROR - Profile is already connected https://www.linkedin.com/in/madhav-panchal-59b66b229/
+2023-09-20 13:43:48,161 - ERROR - Profile is already connected http://www.linkedin.com/in/amityyates
+2023-09-20 13:43:54,833 - ERROR - Profile is already connected http://www.linkedin.com/in/faeth-bradley-ba97603
+2023-09-20 13:44:21,616 - ERROR - Profile Not found http://www.linkedin.com/in/alfonso-espinoza-a7546570
+2023-09-20 13:44:21,617 - ERROR - Profile not Found http://www.linkedin.com/in/alfonso-espinoza-a7546570

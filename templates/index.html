@@ -2,77 +2,99 @@
 
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Enterprise Analytic</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image" href="{% static 'image/EA_logo.png' %}" id="favicon-svg">
-        <link rel="stylesheet" href="{% static 'css/index.css' %}">
-    </head>
-    <body>
-      
-      <form action="/" method="POST" enctype="multipart/form-data">
-        {% csrf_token %}
-        <div id="container" class="container">
-            <!-- FORM SECTION -->
-            <div class="row">
-              <!-- SIGN UP -->
-              <div class="col align-items-center flex-col sign-up">
-               
-              </div>
-              <!-- END SIGN UP -->
-              <!-- SIGN IN -->
-                <div class="col align-items-center flex-col sign-in">
-                <div class="form-wrapper align-items-center">
-                  <div class="form sign-in">
-                   
-                    <div class="input-group">
-                      <i class='bx bxs-user'></i>   
-                      <input type="text" name="email" placeholder="Enter email or number">
-                    </div>
-                    <div class="input-group">
-                      <i class='bx bxs-lock-alt'></i>
-                      <input type="password" name="password" placeholder="Password">
-                    </div>
-                    <div class="input-group">
-                        <i class='bx bxs-lock-alt'></i>
-                        <input type="file" name="excel_file" placeholder="Upload your excel file">
-                    </div>
-                      
-                    <div>
-                      <input type="radio" name="run_type" id="automaticRun" value="auto">
-                      <label for="automaticRun">Auto Execution</label>
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      <input type="radio" name="run_type" id="sequentialRun" value="seq" checked>
-                      <label for="sequentialRun">Sequential Execution</label>
-                  </div>
 
-                  <div class="input-group">
-                      <i class='bx bxs-lock-alt'></i>
-                      <input type="number" id="timeInput" name="delay" min="1" max="30" step="1" placeholder="Enter a time between 1 and 30 seconds">
-                  </div>
-                  
-                      
-                    <button type="submit">Login</button>
-                    {% if file_paths %}
-                    <div>
-                      <br><br>
-                      Total Transactions: {{total_transactions}}
-                      <br><br>
-                      Total Successful: {{total_successful}}
-                      <br><br>
-                      Total Unsuccessful: {{total_unsuccessful}}
-                      <div>
-                        {% for file_path in file_paths %}
-                          <button class="downloadButton" style="display:none;" type="button" onclick='window.open("{% url "download_report" %}?file={{file_path}}","_blank")'>Download File</button>
-                        {% endfor %}
-                        <button type="button" id="download_all">Download Reports</button>
+  <head>
+    <title>Enterprise Analytic</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" type="image" href="{% static 'image/EA_logo.png' %}" id="favicon-svg">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
+    <style>
+      .disabled {
+        pointer-events: none;
+        user-select: none;
+        opacity: 0.5;
+      }
+
+      .error {
+        border: 2px solid red;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <form action="/" method="POST" enctype="multipart/form-data" id="form">
+      {% csrf_token %}
+      <div id="container" class="container">
+        <!-- FORM SECTION -->
+        <div class="row">
+          <!-- SIGN UP -->
+          <div class="col align-items-center flex-col sign-up">
+
+          </div>
+          <!-- END SIGN UP -->
+          <!-- SIGN IN -->
+          <div class="col align-items-center flex-col sign-in">
+            <div class="form-wrapper align-items-center">
+              <div class="form sign-in">
+
+                <div class="input-group">
+                  <i class='bx bxs-user'></i>
+                  <input type="text" name="email" placeholder="Enter email or number" required>
+                </div>
+                <div class="input-group">
+                  <i class='bx bxs-lock-alt'></i>
+                  <input type="password" name="password" placeholder="Password" required>
+                </div>
+                <div class="input-group">
+                  <i class='bx bxs-lock-alt'></i>
+                  <input type="file" name="excel_file" placeholder="Upload your excel file" accept=".xlsx" required>
+                </div>
+                <div>
+                  <input type="radio" name="run_type" id="automaticRun" value="auto">
+                  <label for="automaticRun">Auto Execution</label>
+                  &nbsp;&nbsp;&nbsp;&nbsp;
+                  <input type="radio" name="run_type" id="sequentialRun" value="seq" checked>
+                  <label for="sequentialRun">Sequential Execution</label>
+                </div>
+
+                <div class="input-group">
+                  <i class='bx bxs-lock-alt'></i>
+                  <input type="number" id="timeInput" name="delay" min="1" max="30" step="1"
+                      placeholder="Enter a time between 1 and 30 seconds" required>
+                </div>
+
+
+                <button type="submit" class="disabled">Submit</button>
+                <br>
+                <br>
+                <div class="link-container">
+                  <a href="/download_report?file=./reports/sample.xlsx" class="custom-link"><u>Download .xlsx Sample
+                      File Format <i class="fas fa-arrow-circle-down"></i> </u></a>
+                </div>
+                {% if file_paths %}
+                <div>
+                  <br><br>
+                  Total Transactions: {{total_transactions}}
+                  <br><br>
+                  Total Successful: {{total_successful}}
+                  <br><br>
+                  Total Unsuccessful: {{total_unsuccessful}}
+                  <div>
+                    {% for file_path in file_paths %}
+                    <button class="downloadButton" style="display:none;" type="button"
+                        onclick='window.open("{% url "download_report" %}?file={{file_path}}","_blank")'>Download
+                      File</button>
+                    {% endfor %}
+                    <button type="button" id="download_all">Download Reports</button>
                     {% endif %}
-                        
+
                   </div>
                 </div>
                 <div class="form-wrapper">
-          
+
                 </div>
               </div>
               <!-- END SIGN IN -->
@@ -86,29 +108,30 @@
                   <h2>
                     Welcome To Enterprise Analytic !!
                   </h2>
-                  
+
                 </div>
                 <div class="img sign-in">
-                  
+
                 </div>
               </div>
               <!-- END SIGN IN CONTENT -->
               <!-- SIGN UP CONTENT -->
               <div class="col align-items-center flex-col">
                 <div class="img sign-up">
-                  
+
                 </div>
               </div>
               <!-- END SIGN UP CONTENT -->
             </div>
             <!-- END CONTENT SECTION -->
           </div>
-          
-        </form>
-        </body>
-            
 
-             <script src="{% static 'js/index.js' %}"></script>   
-            
-    </body>
+    </form>
+  </body>
+
+
+  <script src="{% static 'js/index.js' %}"></script>
+  <script src="{% static 'js/validation.js' %}"></script>
+  </body>
+
 </html>

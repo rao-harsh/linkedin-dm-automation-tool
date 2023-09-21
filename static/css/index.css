@@ -359,3 +359,18 @@ body {
   }
 }
 
+
+
+.link-container {
+  text-align: left;
+ padding-left: 20px; 
+}
+
+.custom-link {
+  color:green; /* Set the link color */
+  text-decoration: none; /*Remove underlines*/
+  font-weight: bold; /*Make the link bold*/
+}
+.custom-link:active{
+  color:blue;
+}

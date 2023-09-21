@@ -36,17 +36,20 @@ def find_connect_button(driver, delay):
     time.sleep(delay)
 
     more_option = driver.find_elements(
-        By.XPATH, "//div[@class=\"artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view\"]")[1]
+        By.XPATH, "//div[@class=\"artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view\"]")
 
-    more_option.click()
+    more_option = more_option[1] if isinstance(more_option,list) and len(more_option) > 1 else None
 
-    time.sleep(delay)
+    if more_option:
+        more_option.click()
 
-    connect = driver.find_elements(
-        By.XPATH, "//span[@class=\"display-flex t-normal flex-1\" and text()=\"Connect\"]")
+        time.sleep(delay)
 
-    connect = connect[1] if isinstance(
-        connect, list) and len(connect) > 1 else None
+        connect = driver.find_elements(
+            By.XPATH, "//span[@class=\"display-flex t-normal flex-1\" and text()=\"Connect\"]")
+
+        connect = connect[1] if isinstance(
+            connect, list) and len(connect) > 1 else None
 
     if connect is not None and connect.text.lower() == "connect":
         return connect
@@ -100,7 +103,7 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
     success_urls = []
     success_messages = []
     options = Options()
-    # options.add_argument("--headless=new")
+    options.add_argument("--headless=new")
     unsuccess_urls = []
     error_messages = []
     try:
@@ -132,13 +135,18 @@ def connect_and_send_message(email, password, file_path, auto_delay=True, delay=
         for detail in details:
             delay = delay if auto_delay is False else random.randint(1, 30)
             try:
-                # driver.get(detail["link"])
-                driver.get(
-                    "https://www.linkedin.com/in/parth-savaj-239833269/")
+                driver.get(detail["link"])
+                # driver.get(
+                #     "https://www.linkedin.com/in/parth-savaj-239833269/")
                 name = safe_extract(
-                    driver, '//h1[@class="text-heading-xlarge inline t-24 v-align-middle break-words"]').text
+                    driver, '//h1[@class="text-heading-xlarge inline t-24 v-align-middle break-words"]')
+
+                name = name if name is None else name.text
                 print(name)
-                detail["message"] = detail["message"].replace("{name}", name)
+                if name is not None:
+                    detail["message"] = detail["message"].replace("{name}", name)
+                else:
+                    detail["message"] = detail["message"].replace("{name}", "There")
                 time.sleep(delay)
                 delay = set_delay(delay, auto_delay)
                 not_found = safe_extract(
